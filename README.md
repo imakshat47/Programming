@@ -1,11 +1,16 @@
 # CPrograms
 
 ## Programs
+2. Temperature
 1. Hello World
 
 ## Learnings
-
-> 
+> Format Specifiers - temperatures
+```c
+%6.1f       // specifies 6 width and 1 decimal place precision and float data type
+%%          // prints %
+```
+> Hello World
 ```c
 #include<stdio.h> // header file for printf
 

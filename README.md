@@ -1,11 +1,20 @@
 # CPrograms
 
 ## Programs
-3. Chpychar - getchar(), putchar(), EOF
+7. Arrays - 
+6. WordCount -
+5. LineCount - 
+4. CharCount - getchar(), putchar(), EOF, For loop, While loop 
+3. CopyChar - getchar(), putchar(), EOF
 2. Temperature - Format specifier, Constants 
 1. Hello World - Template
 
 ## Learnings
+
+> Printing float datatype with int format specifier can return 0. use below:
+```c
+ printf("%0.f", nc);
+```
 
 > Any assignment is an expression and has a value, which is the value of the left hand side after the assignment
 

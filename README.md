@@ -2,8 +2,9 @@
 
 ## Programs
 7. Arrays - 
+Note: use '|' instead of EOF because input from command line instead of file.
 6. WordCount -
-5. LineCount - 
+5. LineCount - '\n' and different escape sequences 
 4. CharCount - getchar(), putchar(), EOF, For loop, While loop 
 3. CopyChar - getchar(), putchar(), EOF
 2. Temperature - Format specifier, Constants 

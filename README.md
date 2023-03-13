@@ -1,9 +1,9 @@
 # CPrograms
 
 ## Programs
-7. Arrays - 
+7. Arrays - arrays, functions
 Note: use '|' instead of EOF because input from command line instead of file.
-6. WordCount -
+6. WordCount - escape sequences 
 5. LineCount - '\n' and different escape sequences 
 4. CharCount - getchar(), putchar(), EOF, For loop, While loop 
 3. CopyChar - getchar(), putchar(), EOF
